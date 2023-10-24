@@ -1,2 +1,2 @@
 # Spotify-Clone
-i am try to make spotify forntend clone...just for same practice
+i am try to make spotify fronttend clone...just for some practice....
